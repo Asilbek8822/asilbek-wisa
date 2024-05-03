@@ -1,0 +1,131 @@
+body{
+    background-color: rgb(255, 136, 0);
+}
+
+
+
+.container{
+    width: 400px;
+    height: 600px;
+    background-color: whitesmoke;
+    margin-left: 100px;
+
+}
+.boshi{
+    margin-left: 50px;
+}
+.h1{
+    margin-left: 300px;
+    margin-top: -60px;
+}
+.bu{
+    width: 280px;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.img{
+    width: 120px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 70px;
+}
+.h1a{
+    margin-top: -9px;
+    position: absolute;
+    margin-left: 30px;
+}
+h4{
+    margin-left: 27px;
+    margin-top: 7px;
+}
+
+
+.bi{
+    width: 280px;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-left: 60px;
+    border: 3px solid rgb(31, 30, 30);
+    border-radius: 5px;
+}
+.img1{
+    width: 120px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 70px;
+}
+.h1b{
+    margin-top: -8px;
+    position: absolute;
+    margin-left: 30px;
+}
+h4{
+    margin-left: 27px;
+    margin-top: 7px;
+}
+
+
+.bs{
+    width: 280px;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-left: 60px;
+    border: 3px solid rgb(31, 30, 30);
+    border-radius: 5px;
+}
+.img2{
+    width: 120px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 70px;
+}
+.h1e{
+    margin-top: -6px;
+    position: absolute;
+    margin-left: 30px;
+}
+h4{
+    margin-left: 27px;
+    margin-top: 7px;
+}
+
+.container1{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: -621px;
+}
+.bosi{
+    margin-top: 20px;   
+    margin-left: 20px;
+}
+.as{
+    margin-left: 500px;
+    margin-top: -50px;
+    font-size: 20px rgb(27, 27, 27);
+    
+}
+.asa{
+    margin-left: 500px;
+    margin-top: -50px;
+    font-size: 20px rgb(27, 27, 27);
+    color: rgb(5, 180, 5);
+    
+}
+.img3{
+    width: 30px;
+}
+.asi{
+    margin-left: 40px;
+    margin-top: -40px;
+    font-size: 40px;
+}
+p{
+    margin-top: -20px;
+    margin-left: 35px;
+}
